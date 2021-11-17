@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618016853 source:c:\users\joaov\desktop\revisão c++\13.2. dynamic memory\main.cpp
+	<iostream>
+	<new>
+
